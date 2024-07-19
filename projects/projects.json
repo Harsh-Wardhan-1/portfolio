@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Playlist Conveter",
+    "desc": "Convert your Spotify Playlist to Youtbue playlist with just a single click.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Harsh-Wardhan-1/Plalylist-Converter",
+      "code": "https://github.com/Harsh-Wardhan-1/Plalylist-Converter"
+    }
+  },
+  {
+    "name": "E-Commerce Website",
+    "desc": "E-Commerce Website with Admin Dashboard and Paytm Payment Gateway. MERN Stack Web Application.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Harsh-Wardhan-1/E-Commerce-Website",
+      "code": "https://github.com/Harsh-Wardhan-1/E-Commerce-Website"
+    }
+  },
+  {
+    "name": "Mark-It",
+    "desc": "A notes making app made using HTML, CSS and JavaScript.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Harsh-Wardhan-1/Mark-It",
+      "code": "https://github.com/Harsh-Wardhan-1/Mark-It"
+    }
+  },
+  {
+    "name": "Secure User Authentication",
+    "desc": "A secure registration and login system made by integrating advanced hashing and image steganography algorithms.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Harsh-Wardhan-1/Password_Authentication_Using_Image_Steganography",
+      "code": "https://github.com/Harsh-Wardhan-1/Password_Authentication_Using_Image_Steganography"
+    }
+  },
+  {
+    "name": "Restaurant Website",
+    "desc": "Webstie made for a restuarant.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Harsh-Wardhan-1/restauarant",
+      "code": "https://github.com/Harsh-Wardhan-1/restauarant"
+    }
+  },
+  {
+    "name": "Hotstar Clone",
+    "desc": "Hotstart Clone",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Harsh-Wardhan-1/Hotstar-clone",
+      "code": "https://github.com/Harsh-Wardhan-1/Hotstar-clone"
+    }
+  },
+  {
+    "name": "Other Small Projects",
+    "desc": "Other Small Projects made using Javascript, HTML and CSS",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Harsh-Wardhan-1/JavaScript-Samll-Projects",
+      "code": "https://github.com/Harsh-Wardhan-1/JavaScript-Samll-Projects"
+    }
+  }
+]
