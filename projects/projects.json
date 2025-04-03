@@ -1,7 +1,7 @@
 [
   {
-    "name": "Playlist Conveter",
-    "desc": "Convert your Spotify Playlist to Youtbue playlist with just a single click.",
+    "name": "Music Playlist Conveter",
+    "desc": "Convert your Spotify Playlist to Youtube playlist with just a single click.",
     "image": "project",
     "category": "mern",
     "links": {
