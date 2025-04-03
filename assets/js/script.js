@@ -110,7 +110,7 @@ function showProjects(projects) {
     projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/project.jpeg" alt="project" />
+      <img draggable="false" src="/assets/images/android.jpg" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
@@ -159,17 +159,6 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
     max: 15,
 });
 // <!-- tilt js effect ends -->
-
-
-// pre loader start
-// function loader() {
-//     document.querySelector('.loader-container').classList.add('fade-out');
-// }
-// function fadeOut() {
-//     setInterval(loader, 500);
-// }
-// window.onload = fadeOut;
-// pre loader end
 
 // disable developer mode
 document.onkeydown = function (e) {
